@@ -41,7 +41,7 @@ src="https://img.shields.io/github/last-commit/Ananyaagupta/BOTS.PY" alt="Ananya
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Ananyaagupta&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaagupta&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
 <h3 align="center">Currently crushing over🖤💦</h3>
 
-<p align="center"><img height=400px src="https://i.pinimg.com/564x/5d/7b/b9/5d7bb9ad531d8c6aeca771886891fe94.jpg" /> <img height=400px src="https://i.pinimg.com/564x/70/92/e7/7092e79c5ab2dd7daacfc18e93372c27.jpg" />  <img height=400px src="https://i.pinimg.com/236x/a0/b7/5b/a0b75b12bedac23dc782d7065d708c7d.jpg" /> <img height=400px src="https://i.pinimg.com/564x/b1/c8/1d/b1c81d14dd0205139d42e0ce4d7fb4e1.jpg" /> </p>
+<p align="center"><img height=400px src="https://i.pinimg.com/564x/5d/7b/b9/5d7bb9ad531d8c6aeca771886891fe94.jpg" />  <img height=400px src="https://i.pinimg.com/236x/a0/b7/5b/a0b75b12bedac23dc782d7065d708c7d.jpg" /> <img height=400px src="https://i.pinimg.com/564x/b1/c8/1d/b1c81d14dd0205139d42e0ce4d7fb4e1.jpg" /> </p>
 <h1>さよなら 👋</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/ananyaa-gupta-a0532b1b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
