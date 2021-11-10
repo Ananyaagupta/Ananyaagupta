@@ -11,7 +11,7 @@ src="https://img.shields.io/github/last-commit/Ananyaagupta/BOTS.PY" alt="Ananya
 
 - 🤝 I’m looking to collaborate on any interesting project on **Web Dev, Blockchain**.
 
-- 💬 Ask me about **New startups and Technologies, Cryptocurrency, Techical Blogs, Anime & song Reccomendations**.
+- 💬 Ask me about **New startups and Technologies, Cryptocurrency, Tech Blogs, Anime & song Reccomendations**.
 
 - 📧 You can mail me **[here](mailto:sonyguptashikohabad@gmail.com)**
   
