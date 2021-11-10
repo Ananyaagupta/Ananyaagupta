@@ -4,7 +4,7 @@
 <h4 align="center">My thoughts are stars I cannot fathom into constellations. And these scattered stars from my thoughts are various things I am venturing into slowly but definitely. Some of these stars (read interests) are Web development,Blockchain, writing, entrepreneurship</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ananyaagupta&logoColor=white&color=FFDE59" alt="Ananyaagupta" /> <img
 src="https://img.shields.io/github/followers/Ananyaagupta?style=social" alt="Ananyaagupta" /> <img
-src="https://img.shields.io/github/last-commit/Ananyaagupta/BOTS.PY" alt="Ananyaagupta" /> 
+src="https://img.shields.io/github/last-commit/Ananyaagupta/Ananyaagupta" alt="Ananyaagupta" /> 
 
 
 - 💻 I’m currently learning **Backend web development, Appdev**.
